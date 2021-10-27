@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter and Life
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me yakothari2510@gmail.com
+- 📈 Currently working on decentralized world and crypto trading bot
 
 <!---
 yakothari25/yakothari25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
