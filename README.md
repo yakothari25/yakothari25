@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @yakothari25
-- 👀 I’m interested in Mobile applications
-- 🌱 I’m currently learning Flutter and Life
-- 💞️ I’m looking to collaborate on Flutter projects
+- 👀 I’m interested in task automation and trading bot
+- 🌱 I’m currently learning Python and Life
+- 💞️ I’m looking to collaborate on Automation and Trading Bots
 - 📫 How to reach me yakothari2510@gmail.com
-- 📈 Currently working on decentralized world and crypto trading bot
+- 📈 Currently working on Option and Future (FNO) strategy implementation and Audio to Video using AI. 
 
 <!---
 yakothari25/yakothari25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
